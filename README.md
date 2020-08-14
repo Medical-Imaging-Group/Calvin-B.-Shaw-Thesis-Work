@@ -1,7 +1,7 @@
 # Calvin B Shaw Thesis Work
-The following MATLAB programs were used as a part of the Ph.D. thesis submitted.
+**The following MATLAB programs were used as a part of the Ph.D. thesis submitted.**
 
-Thesis Title:  Development of Sparse Recovery based Optimized Diffuse Optical and Photoacoustic Image Reconstruction Methods
+**Thesis Title:  Development of Sparse Recovery based Optimized Diffuse Optical and Photoacoustic Image Reconstruction Methods**
 
 Chapter-wise MATLAB-based Programs (Requires [NIRFAST](http://www.dartmouth.edu/~nir/nirfast/) for chapters-3, 4, and 5 and [k-wave](http://www.k-wave.org/) for chapter-6):
 
